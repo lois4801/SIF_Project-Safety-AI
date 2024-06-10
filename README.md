@@ -17,3 +17,4 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To apply machine learning, NLP and LLM in creating models for the platform.
 - To apply data quality, data testing, data programming
 - To use quantitative and qualitative analysis that revolves around risk management and Job hazard management
+- To create and design a web based data analysis platform that automatically produced graphs and charts based from the input of the user in real time
