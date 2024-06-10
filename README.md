@@ -1,8 +1,8 @@
 # SIF_Project and Project-Safety-AI --- 2 LIVE END TO END PROJECT
 A project to be presented to an Electric and Power Company namely Nova Scotia Power for Analyzing the variables and factors involving injuries and fatalities in Electrical Field Industry.  
 
-# Goals
-# SIF Project
+# A. Goals
+#  1. SIF Project
 - To research the necessary factors and variable that revolves around Electrical Field injuries and fatalities
 - To analyze the schema and diagram for the SIF Project
 - To create and design the database 
@@ -12,12 +12,12 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To create a website that enables the audience to see the output report of the data gathered
 - To use API or hyperlinks to connect different platforms used from data gathering, data cleaning until data presentation
 
-# Introduction
+### Introduction
 
 SIF stands for Serious Injury and Fatality. SIF prevention methods are all about stopping these kinds of accidents from happening in the workplace.
 There are a number of ways to achieve SIF prevention, and effective strategies typically involve a combination of approaches. 
 
-## Key areas to focus on:
+###  Key areas to focus on:
 
 - Hazard Identification and Risk Assessment:
 -- Proactive identification of high-energy hazards is crucial. This involves inspecting workplaces, reviewing past incidents, and understanding the tasks performed by workers. Once hazards are identified, steps can be taken to assess and mitigate the risks.
@@ -42,7 +42,7 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 
 ------------------------------------------------------------------------------------------------------------- 
   
-# Project Safety AI
+# 2. Project Safety AI
 - To use create a web based platform that aggregates data involving injuries and fatalities in Electrical Field Industry
 - To apply data management and controls for the 3 to 4 projects under Project Safety AI
 - To apply Machine Learning, NLP and LLM in creating models for the platform.
