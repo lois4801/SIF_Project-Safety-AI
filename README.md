@@ -14,7 +14,9 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
   
 # Project Safety AI
 - To use create a web based platform that aggregates data involving injuries and fatalities in Electrical Field Industry
-- To apply machine learning, NLP and LLM in creating models for the platform.
+- To apply data management and controls for the 3 to 4 projects under Project Safety AI
+- To apply Machine Learning, NLP and LLM in creating models for the platform.
 - To apply data quality, data testing, data programming
 - To use quantitative and qualitative analysis that revolves around risk management and Job hazard management
 - To create and design a web based data analysis platform that automatically produced graphs and charts based from the input of the user in real time
+- To create and design a web based visual NLP task application
