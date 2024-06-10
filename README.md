@@ -36,10 +36,59 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 ### 1. Incident ID
 - Unique identifier for each incident
 
-### 2. 
+### 2. DAte of Incident
+- Data when the incident occured
 
+### 3. Location
+- Specific location where the incident took place (eg. Substation, power plant, field site)
 
+### 4. Type of Incident
+- Categorization of the incident (eg. Electrical shock, fall from height, equipment failure)
 
+### 5. Severity 
+- Classification of the incident severity (serious, injury , fatality)
+
+### 6. Description of Incident
+- Detailed description of what happened.
+
+### 7. Cause
+- Root cause of the incident (e.g., human error, equipment malfunction, environmental factors).
+
+### 8. Victim Details
+- Information about the victim(s) involved (e.g., job title, years of experience, age).
+
+### 9. Safety Equipment Used
+- Personal protective equipment (PPE) used at the time of the incident (e.g., gloves, helmets, harness).
+
+### 10. Witnesses
+- Names or number of witnesses to the incident.
+
+### 11. Investigation Findings
+- Summary of findings from the incident investigation.
+
+### 12. Corrective Actions Taken
+- Actions implemented to prevent recurrence of similar incidents.
+
+### 13. Reporting Agency
+- The agency or authority to which the incident was reported (e.g., CCOHS , OSHA, local regulatory body).
+
+### 14. Legal Consequences
+- Any legal actions or fines resulting from the incident.
+
+## PROCESS PLAN OPTIONS
+##PLAN 1
+- Database to data ETL EXCEL to Tableau for Story Telling and presentation
+
+## Plan 2
+- Database creation- SQL Programming- Excel to Google Looker Studio
+
+## Plan 3
+- Excel to PowerBI for Presentation
+
+##PLAN 4
+- Excel to Python programming using Data Science and Data analysis processes and tools.
+
+  
 
 
 
