@@ -74,9 +74,9 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 
 ### 14. Legal Consequences
 - Any legal actions or fines resulting from the incident.
-
+----------------------------------------------------------------------------------------------------------------
 ## PROCESS PLAN OPTIONS
-##PLAN 1
+## PLAN 1
 - Database to data ETL EXCEL to Tableau for Story Telling and presentation
 
 ## Plan 2
@@ -85,10 +85,17 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 ## Plan 3
 - Excel to PowerBI for Presentation
 
-##PLAN 4
+## PLAN 4
 - Excel to Python programming using Data Science and Data analysis processes and tools.
 
-  
+-------------------------------------------------------------------------------------------------------------
+
+# Plan 1
+- Unprocessed dataset
+  https://drive.google.com/file/d/1jX81EraAeQRSsv_d-X6ojspXJuLxgOrk/view?usp=drive_link
+- Cleaned and processed dataset
+https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=sharing
+
 
 
 
