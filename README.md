@@ -12,12 +12,12 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To create a website that enables the audience to see the output report of the data gathered
 - To use API or hyperlinks to connect different platforms used from data gathering, data cleaning until data presentation
 
-### Introduction
+## Introduction
 
 SIF stands for Serious Injury and Fatality. SIF prevention methods are all about stopping these kinds of accidents from happening in the workplace.
 There are a number of ways to achieve SIF prevention, and effective strategies typically involve a combination of approaches. 
 
-###  Key areas to focus on:
+##  Key areas to focus on:
 
 - Hazard Identification and Risk Assessment:
 -- Proactive identification of high-energy hazards is crucial. This involves inspecting workplaces, reviewing past incidents, and understanding the tasks performed by workers. Once hazards are identified, steps can be taken to assess and mitigate the risks.
@@ -31,7 +31,12 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 - Data Analysis and Improvement:
 -- Safety programs should be data-driven. By collecting and analyzing information on near misses and past incidents, organizations can identify trends and areas where they need to focus their SIF prevention efforts.
 
+## Creating, Designing, Generating Database and Dataset
+### a. DATA Structure
+### 1. Incident ID
+- Unique identifier for each incident
 
+### 2. 
 
 
 
