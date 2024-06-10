@@ -11,6 +11,36 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To use PowerBI, Tableau, and Google Looker studio in presenting different aspects of data involving injuries and fatalities in Electrical Field Industry
 - To create a website that enables the audience to see the output report of the data gathered
 - To use API or hyperlinks to connect different platforms used from data gathering, data cleaning until data presentation
+
+# Introduction
+
+SIF stands for Serious Injury and Fatality. SIF prevention methods are all about stopping these kinds of accidents from happening in the workplace.
+There are a number of ways to achieve SIF prevention, and effective strategies typically involve a combination of approaches. 
+
+## Key areas to focus on:
+
+- Hazard Identification and Risk Assessment:
+-- Proactive identification of high-energy hazards is crucial. This involves inspecting workplaces, reviewing past incidents, and understanding the tasks performed by workers. Once hazards are identified, steps can be taken to assess and mitigate the risks.
+
+- Implementing Effective Safety Controls: 
+-- There are two main types of controls: eliminating hazards altogether and implementing safeguards to minimize harm if an accident occurs. Examples include using guardrails when working at heights, ensuring proper ventilation when working with chemicals, and requiring workers to wear Personal Protective Equipment (PPE).
+
+- Building a Strong Safety Culture:
+-- This goes beyond just having rules in place. It's about creating an environment where everyone feels empowered to identify and report safety hazards, and where following safety procedures is the norm. This can be achieved through training, leadership commitment, and open communication.
+
+- Data Analysis and Improvement:
+-- Safety programs should be data-driven. By collecting and analyzing information on near misses and past incidents, organizations can identify trends and areas where they need to focus their SIF prevention efforts.
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------- 
   
 # Project Safety AI
 - To use create a web based platform that aggregates data involving injuries and fatalities in Electrical Field Industry
