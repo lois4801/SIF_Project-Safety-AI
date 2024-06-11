@@ -1,8 +1,14 @@
 # SIF_Project and Project-Safety-AI --- 2 LIVE END TO END PROJECT
 A project to be presented to an Electric and Power Company namely Nova Scotia Power for Analyzing the variables and factors involving injuries and fatalities in Electrical Field Industry.  
 
-# A. Goals
-#  1. SIF Project
+
+# I. SIF Project
+![electro-boom](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/c8bdd1ea-a023-4933-b037-43396834c14d)
+
+
+
+
+
 - To research the necessary factors and variable that revolves around Electrical Field injuries and fatalities
 - To analyze the schema and diagram for the SIF Project
 - To create and design the database 
@@ -12,12 +18,12 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To create a website that enables the audience to see the output report of the data gathered
 - To use API or hyperlinks to connect different platforms used from data gathering, data cleaning until data presentation
 
-## Introduction
+## A. Introduction
 
 SIF stands for Serious Injury and Fatality. SIF prevention methods are all about stopping these kinds of accidents from happening in the workplace.
 There are a number of ways to achieve SIF prevention, and effective strategies typically involve a combination of approaches. 
 
-##  Key areas to focus on:
+## B. Key areas to focus on:
 
 - Hazard Identification and Risk Assessment:
 -- Proactive identification of high-energy hazards is crucial. This involves inspecting workplaces, reviewing past incidents, and understanding the tasks performed by workers. Once hazards are identified, steps can be taken to assess and mitigate the risks.
@@ -31,48 +37,48 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 - Data Analysis and Improvement:
 -- Safety programs should be data-driven. By collecting and analyzing information on near misses and past incidents, organizations can identify trends and areas where they need to focus their SIF prevention efforts.
 
-## Creating, Designing, Generating Database and Dataset
-### a. DATA Structure
-### 1. Incident ID
+## C. Creating, Designing, Generating Database and Dataset
+### 1. DATA Structure
+### a. Incident ID
 - Unique identifier for each incident
 
-### 2. DAte of Incident
+### b. DAte of Incident
 - Data when the incident occured
 
-### 3. Location
+### c. Location
 - Specific location where the incident took place (eg. Substation, power plant, field site)
 
-### 4. Type of Incident
+### d. Type of Incident
 - Categorization of the incident (eg. Electrical shock, fall from height, equipment failure)
 
-### 5. Severity 
+### e. Severity 
 - Classification of the incident severity (serious, injury , fatality)
 
-### 6. Description of Incident
+### f. Description of Incident
 - Detailed description of what happened.
 
-### 7. Cause
+### g. Cause
 - Root cause of the incident (e.g., human error, equipment malfunction, environmental factors).
 
-### 8. Victim Details
+### h. Victim Details
 - Information about the victim(s) involved (e.g., job title, years of experience, age).
 
-### 9. Safety Equipment Used
+### i. Safety Equipment Used
 - Personal protective equipment (PPE) used at the time of the incident (e.g., gloves, helmets, harness).
 
-### 10. Witnesses
+### j. Witnesses
 - Names or number of witnesses to the incident.
 
-### 11. Investigation Findings
+### k. Investigation Findings
 - Summary of findings from the incident investigation.
 
-### 12. Corrective Actions Taken
+### l. Corrective Actions Taken
 - Actions implemented to prevent recurrence of similar incidents.
 
-### 13. Reporting Agency
+### m. Reporting Agency
 - The agency or authority to which the incident was reported (e.g., CCOHS , OSHA, local regulatory body).
 
-### 14. Legal Consequences
+### o. Legal Consequences
 - Any legal actions or fines resulting from the incident.
 ----------------------------------------------------------------------------------------------------------------
 ## PROCESS PLAN OPTIONS
@@ -96,6 +102,9 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 - Cleaned and processed dataset
 https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=sharing
 
+![Screenshot 2024-06-10 195552](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/19c32458-6533-4d9a-8603-33a52ab913ae)
+
+![Screenshot 2024-06-10 200227](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/75d97e3f-c484-4938-9365-947d2fa01b81)
 
 
 
@@ -103,7 +112,7 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 
 ------------------------------------------------------------------------------------------------------------- 
   
-# 2. Project Safety AI
+# II. Project Safety AI
 - To use create a web based platform that aggregates data involving injuries and fatalities in Electrical Field Industry
 - To apply data management and controls for the 3 to 4 projects under Project Safety AI
 - To apply Machine Learning, NLP and LLM in creating models for the platform.
