@@ -115,7 +115,7 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 ![Screenshot 2024-06-10 210251](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/58378624-20cf-4101-89a7-b396af93be33)
 
 ### DATA ETL and Manipulation
-
+- Importing the cleaned data to the tableau. Extracting the datasets and manipulating the necessary variables
 ![Screenshot 2024-06-10 211939](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/815a0187-1086-493f-a59b-1062817696d2)
 
 
