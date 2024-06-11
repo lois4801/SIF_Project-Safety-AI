@@ -6,9 +6,6 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 ![electro-boom](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/c8bdd1ea-a023-4933-b037-43396834c14d)
 
 
-
-
-
 - To research the necessary factors and variable that revolves around Electrical Field injuries and fatalities
 - To analyze the schema and diagram for the SIF Project
 - To create and design the database 
@@ -17,6 +14,11 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To use PowerBI, Tableau, and Google Looker studio in presenting different aspects of data involving injuries and fatalities in Electrical Field Industry
 - To create a website that enables the audience to see the output report of the data gathered
 - To use API or hyperlinks to connect different platforms used from data gathering, data cleaning until data presentation
+- To test the functionality of each dashboards
+- To test the real time integration FROM WEBAPP TO MICROSOFT SOFTWARES >>>  FROM WEBAPP TO POWERPOINT PRESENTATION >>> FROM WEBAPP TO WEBAPP>>> FROM WEBAPP TO MY OWN CREATED WEBSITE
+- To do data integration testing and data quality assusrance testing during the start of the project until it is finished
+- Be sure to add description for each DASHBOARD FUNCTIONS.
+- Be sure to interconnect each graphs in each dashboards especially in Tableau. 
 
 ## A. Introduction
 
@@ -117,6 +119,12 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 ### DATA ETL and Manipulation
 - Importing the cleaned data to the tableau. Extracting the datasets and manipulating the necessary variables
 ![Screenshot 2024-06-10 211939](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/815a0187-1086-493f-a59b-1062817696d2)
+
+- Manipulated my variables on my Tableau to suit to my needs to present different information by graphs on each sheet
+  ![Screenshot 2024-06-11 024532](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/61d64a4e-6b49-4174-94d1-b5e400698b79)
+
+![Screenshot 2024-06-11 024532](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/d41d0cda-171d-4586-8a07-8592fe2e45b6)
+
 
 
 ------------------------------------------------------------------------------------------------------------- 
