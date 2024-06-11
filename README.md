@@ -121,7 +121,7 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 ![Screenshot 2024-06-10 211939](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/815a0187-1086-493f-a59b-1062817696d2)
 
 - Manipulated my variables on my Tableau to suit to my needs to present different information by graphs on each sheet
-  ![Screenshot 2024-06-11 024532](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/61d64a4e-6b49-4174-94d1-b5e400698b79)
+![Screenshot 2024-06-11 024243](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/ce1e1864-8291-46ec-9414-c6d3a2713a00)
 
 ![Screenshot 2024-06-11 024532](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/d41d0cda-171d-4586-8a07-8592fe2e45b6)
 
