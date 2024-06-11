@@ -84,7 +84,7 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 - Any legal actions or fines resulting from the incident.
 ----------------------------------------------------------------------------------------------------------------
 ## PROCESS PLAN OPTIONS
-## PLAN 1
+## Plan 1
 - Database to data ETL EXCEL to Tableau for Story Telling and presentation
 
 ## Plan 2
@@ -93,7 +93,7 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 ## Plan 3
 - Excel to PowerBI for Presentation
 
-## PLAN 4
+## Plan4
 - Excel to Python programming using Data Science and Data analysis processes and tools.
 
 -------------------------------------------------------------------------------------------------------------
