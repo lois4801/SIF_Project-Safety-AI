@@ -106,7 +106,8 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 ### Data Cleaning Process
 - Replaced OSHA to CCOHS to standardize the data
 - Remove empty cells
-- Removed the duplicates 
+- Removed the duplicates
+  
 ![Screenshot 2024-06-10 195552](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/19c32458-6533-4d9a-8603-33a52ab913ae)
 
 ![Screenshot 2024-06-10 200227](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/75d97e3f-c484-4938-9365-947d2fa01b81)
