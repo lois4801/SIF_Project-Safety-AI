@@ -18,7 +18,9 @@ A project to be presented to an Electric and Power Company namely Nova Scotia Po
 - To test the real time integration FROM WEBAPP TO MICROSOFT SOFTWARES >>>  FROM WEBAPP TO POWERPOINT PRESENTATION >>> FROM WEBAPP TO WEBAPP>>> FROM WEBAPP TO MY OWN CREATED WEBSITE
 - To do data integration testing and data quality assusrance testing during the start of the project until it is finished
 - Be sure to add description for each DASHBOARD FUNCTIONS.
-- Be sure to interconnect each graphs in each dashboards especially in Tableau. 
+- Be sure to interconnect each graphs in each dashboards especially in Tableau.
+- To include the program for embedding the dashboards in any websites
+- To produce 3 Dashboards in PLAN 1
 
 ## A. Introduction
 
