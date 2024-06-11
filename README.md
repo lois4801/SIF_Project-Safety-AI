@@ -129,3 +129,8 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 - To use quantitative and qualitative analysis that revolves around risk management and Job hazard management
 - To create and design a web based data analysis platform that automatically produced graphs and charts based from the input of the user in real time
 - To create and design a web based visual NLP task application
+
+
+
+Embed Tableau to Powerpoint
+https://www.vizwiz.com/2012/05/tableau-tip-embedding-dashboard-in.html
