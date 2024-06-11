@@ -1,5 +1,5 @@
 # SIF_Project and Project-Safety-AI --- 2 LIVE END TO END PROJECT
-A project to be presented to an Electric and Power Company namely Nova Scotia Power for Analyzing the variables and factors involving injuries and fatalities in Electrical Field Industry.  
+A project to be presented to an Electric and Power Company namely Nova Scotia Power for Analyzing the variables and factors involving injuries and fatalities in Electrical Field Industry using Data Science, Data Analysis and tools like Tableau, Google Looker Studio and Power Bi, Python Programming, SQL Programming and many more  
 
 
 # I. SIF Project
@@ -125,8 +125,10 @@ https://drive.google.com/file/d/19RNZWOXIB5q8gxm-EBhDmgk1LV3WHM_b/view?usp=shari
 
 ![Screenshot 2024-06-11 024532](https://github.com/lois4801/SIF_Project-Safety-AI/assets/96842662/d41d0cda-171d-4586-8a07-8592fe2e45b6)
 
-### DASHBOARD 1- 
+### DASHBOARD 1- Severity of Each Incident Per Year Dashboard
 https://public.tableau.com/views/SIFProject/SIFProjectTableauPublicSeverityofEachIncidentEachYearDashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+
 
 Program to embed in any website
 
