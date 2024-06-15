@@ -42,11 +42,11 @@ There are a number of ways to achieve SIF prevention, and effective strategies t
 -- Safety programs should be data-driven. By collecting and analyzing information on near misses and past incidents, organizations can identify trends and areas where they need to focus their SIF prevention efforts.
 
 ## C. Creating, Designing, Generating Database and Dataset
-### 1. DATA Structure
+### 1. >>>> DATA STRUCTURE
 ### a. Incident ID
 - Unique identifier for each incident
 
-### b. DAte of Incident
+### b. Date of Incident
 - Data when the incident occured
 
 ### c. Location
