@@ -144,7 +144,7 @@ Program to embed in any website
 
 
 
-### DASHBOARD 2- Investigation Finding Per Type of Incident
+### DASHBOARD 2- Investigation Findings Per Type of Incident
 https://public.tableau.com/views/SIFProject/Dashboard2forwebview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Program to embed to any website
