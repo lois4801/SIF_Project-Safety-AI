@@ -1,5 +1,5 @@
 # SIF_Project and Project-Safety-AI --- 2 LIVE END TO END PROJECT
-A project to be presented to an Electric and Power Company namely Nova Scotia Power for Analyzing the variables and factors involving injuries and fatalities in Electrical Field Industry using Data Science, Data Analysis and tools like Tableau, Google Looker Studio and Power Bi, Python Programming, SQL Programming and many more  
+A project about Serious Injuries and Fatalities tailored for Power and Electric Company. Analyzing the variables and factors involving injuries and fatalities in Electrical Field Industry using Data Science, Data Analysis and tools like Tableau, Google Looker Studio and Power Bi, Python Programming, SQL Programming and many more  
 
 
 # I. SIF Project
